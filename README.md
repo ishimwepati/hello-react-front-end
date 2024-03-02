@@ -1,4 +1,4 @@
-# Hello React Frontend
+# Hello React Frontend Apps
 
 <a name="readme-top"></a>
 
@@ -102,9 +102,9 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **ISHIMWE JOSEPH**
+👤 **Ishimwe Joseph**
 
-- GitHub: [@IShsimwe Joseph](https://github.com/IshimwePati/)
+- GitHub: [@Ishimwe Joseph](https://github.com/IshimwePati/)
 
 <!-- FUTURE FEATURES -->
 
@@ -144,4 +144,4 @@ If you like this project please show support by staring ⭐️.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to Up</a>)</p>
