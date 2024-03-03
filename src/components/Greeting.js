@@ -11,7 +11,7 @@ const Greeting = () => {
   }, [dispatch]);
   return (
     <div>
-      <h2>Greeting Word</h2>
+      <h2>Hello Dear : This is our Greeting Message</h2>/h2>
       <div>{greeting}</div>
     </div>
   );
